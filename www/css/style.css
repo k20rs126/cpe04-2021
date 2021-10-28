@@ -11,10 +11,21 @@ button {
 }
 
 #btnA {
-  background-color: yellow;
-  color: green;
+  background-color: red;
+  color: white;
   font-weight: bold;
 }
+
+#btnB {
+  background-color:yellow;
+  color: black;
+}
+
+#btnC {
+  background-color: green;
+  color: white;
+}
+
 
 #time {
   box-shadow: 5px 5px 5px;
