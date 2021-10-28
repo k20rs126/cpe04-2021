@@ -86,17 +86,17 @@ button {
         position:absolute; top:380px; left:2%; width:25%; height:60px; 
     }
     
-    #btnB {
+    #btnD {
         font-size: 20px;
         position:absolute; top:380px; left:27%; width:25%; height:60px; 
     }
 
-    #btnC {
+    #btnB {
         font-size: 20px;
         position:absolute; top:380px; left:52%; width:25%; height:60px; 
     }
 
-    #btnD {
+    #btnC {
         font-size: 20px;
         position:absolute; top:380px; left:76%; width:25%; height:60px; 
     }
