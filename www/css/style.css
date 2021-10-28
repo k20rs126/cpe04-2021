@@ -26,6 +26,11 @@ button {
   color: white;
 }
 
+#btnD {
+  background-color: blue;
+  color: white;
+}
+
 
 #time {
   box-shadow: 5px 5px 5px;
