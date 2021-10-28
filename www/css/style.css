@@ -37,6 +37,10 @@ button {
   content: "秒";
 }
 
+#remain::after {
+  content: "秒";
+}
+
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
